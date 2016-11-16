@@ -1,0 +1,13 @@
+# Generated files
+#IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+classes
+gen-external-apklibs
+
+#gradle
+.gradle
+local.properties
+build/
